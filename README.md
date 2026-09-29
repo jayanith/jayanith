@@ -34,6 +34,20 @@
 
 ---
 
+### 🎯 DevOps / Operations Skills
+
+| Area | Skills |
+|---|---|
+| 🐧 Linux / Unix | Terminal, file system, permissions, processes, cron, SSH |
+| 📜 Scripting | Bash, Python (automation of repetitive tasks) |
+| 📊 Monitoring & Logs | `top`, `free`, `df`, `tail`, `grep`, `awk`, `journalctl`, log analysis |
+| 🌐 Networking | TCP/IP, ports, DNS, connectivity checks (`ping`, `ss`, `curl`) |
+| 🖥 Fundamentals | Operating Systems, Computer Architecture, Computer Networks |
+| 🚨 Operations | Runbooks, first-level debugging, incident logging, shift handovers, escalation |
+| 🔧 Tools | Git, GitHub |
+
+---
+
 ### 📂 Projects
 
 | Project | Stack | Description |
